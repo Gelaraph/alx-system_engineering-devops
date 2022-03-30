@@ -1,1 +1,1 @@
-/bin/ls
+ln -s /bin/ls
