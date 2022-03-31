@@ -1,5 +1,5 @@
 #0x00. Shell, basics:
-An introductory project to the Bourne-again Shell.
+#An introductory project to the Bourne-again Shell.
 
 #Scrpit Descriptions:
 0-current_working_directory - prints the absolute path name of the current working directory.
