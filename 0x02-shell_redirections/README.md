@@ -1,10 +1,10 @@
 # 0x02. Shell, I/O Redirections and Filters
-In this project, I learned about using the <pre><code>head</code></pre>, <pre><code>tail</code></pre>, <pre><code>find</code></pre>, <pre><code>wc</code></pre>, <pre><code>sort</code></pre>, <pre><code>uniq</code></pre>, <pre><code>grep</code></pre>, and <pre><code>tr</code></pre> commands to redirect standard input and output and combine commands in the Shell. I learned about special characters, how they work and how to filter text from files.
+In this project, I learned about using **head**, **tail**, **find**, **wc**, **sort**, **uniq**, **grep**, and **tr** commands to redirect standard input and output and combine commands in the Shell. I learned about special characters, how they work and how to filter text from files.
 
 ## Script Tasks:
 
-* 0. Hello World
-  - 0-hello_world: Bash script that prints "Hello, World" followed by a new line to the standard output.
+*   0. Hello World
+      - 0-hello_world: Bash script that prints "Hello, World" followed by a new line to the standard output.
   
 * 1. Confused smiley
    - 1-confused_smiley: Bash script that displays a confused smiley "(Ôo)'.
