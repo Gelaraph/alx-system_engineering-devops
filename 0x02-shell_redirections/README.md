@@ -9,10 +9,10 @@ In this project, I learned about using **head**, **tail**, **find**, **wc**, **s
 *   1.Confused smiley
         - 1-confused_smiley: Bash script that displays a confused smiley "(Ôo)'.
 
-*   2. Let's display a file
+*   /2. Let's display a file
         - 2-hellofile: Bash script that displays the content of the /etc/passwd file.
 
-*   3. What about 2?
+*   /3. What about 2?
         - 3-twofiles: Bash script that displays the content of etc/passwd and /etc/hosts.
 
 *   4. Last lines of a file
