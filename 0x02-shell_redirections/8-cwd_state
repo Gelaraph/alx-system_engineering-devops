@@ -1,14 +1,2 @@
-total 44
-drwxr-xr-x 2 root root  247 Apr  4 09:54 .
-drwxr-xr-x 6 root root  104 Apr  4 04:49 ..
--rwxr--r-- 1 root root   32 Apr  4 06:12 0-hello_world
--rwxr--r-- 1 root root   33 Apr  4 08:20 1-confused_smiley
--rwxr--r-- 1 root root   28 Apr  4 08:24 2-hellofile
--rwxr--r-- 1 root root   39 Apr  4 08:34 3-twofiles
--rwxr--r-- 1 root root   29 Apr  4 08:40 4-lastlines
--rwxr--r-- 1 root root   29 Apr  4 08:43 5-firstlines
--rwxr--r-- 1 root root   40 Apr  4 08:46 6-third_line
--rwxr--r-- 1 root root   86 Apr  4 08:56 7-file
--rw-r--r-- 1 root root   12 Apr  4 08:57 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rwxr--r-- 1 root root    0 Apr  4 09:55 ls_cwd_content
--rw-r--r-- 1 root root 4883 Apr  4 06:13 README.md
+#!/bin/bash
+ls -la > ls_cwd_content
